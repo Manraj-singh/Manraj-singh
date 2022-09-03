@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manraj Singh</h1>
-<h3 align="center">Techie from India who likes software development particularly Web Development</h3>
+<h3 align="center">Techie from India who likes Software Development particularly Web Development</h3>
 
 - 🔭 I’m currently working as **Programmer Analyst at Cognizant**
 
